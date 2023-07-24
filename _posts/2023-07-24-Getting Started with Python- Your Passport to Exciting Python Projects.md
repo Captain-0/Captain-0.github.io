@@ -16,7 +16,7 @@ category: blog
 tags:
   - tutorial
   - python
-author: sufypunk
+author: sufiyan
 paginate: false
 ---
 
