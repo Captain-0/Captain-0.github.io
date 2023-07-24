@@ -1,11 +1,10 @@
 ---
-date: 2023-07-23
+date: 2023-07-24
 layout: post
 title: Getting Started with Python- Your Passport to Exciting Python Projects
 subtitle: ""
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  Tutorial on how to install python on your system
 image: >-
   https://res.cloudinary.com/dy3po9tjd/image/upload/v1690173787/kaa-disney_u74ive.gif
 # https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
