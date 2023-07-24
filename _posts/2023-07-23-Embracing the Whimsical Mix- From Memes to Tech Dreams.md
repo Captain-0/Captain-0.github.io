@@ -23,6 +23,8 @@ paginate: false
 Hello, fellow adventurers of the digital realm! Welcome to the quirky corner of my virtual world, where moments, memes, shitposts, and tech projects all converge into a delightful cocktail of internet goodness.
 
 > **The Journey of a Thousand Miles Begins with a Single Step**
+>
+> -- <cite>Ganesh Kirana Store Owner </cite>
 
 # Sharing Memorable Moments:
 
@@ -46,4 +48,4 @@ Ah, technology – the heart and soul of our digital age. Here, you'll find me t
 
 Stay curious, and let's make this digital odyssey an unforgettable one!
 
-> ~~The above post was written by an AI. mereko Inglish nahi aati hai~~
+> ~~_Me no hablo ingles_~~
