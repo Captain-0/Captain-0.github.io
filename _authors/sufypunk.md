@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/waed.png
-name: sufypunk
+name: sufiyan
 display_name: Sufypunk
 position: Sailor at heart
 bio: Developer/Hacker with a lethal dose of Caffeine in his System
