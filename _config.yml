@@ -21,21 +21,17 @@ menu:
     url: /feed.xml
 email: secondspace8810@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: sufypunk
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
 
-
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
+github_username: captian-0
+twitter_username: _Captain_0
+instagram_username: sufypunk
 linkedin_username: linkedin_username
-medium_username: medium_username
-
 
 # Posts Settings
 show_time_bar: true
@@ -43,15 +39,13 @@ show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: false
 
-
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "captain-0.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
-
 
 # Build settings
 markdown: kramdown
@@ -92,17 +86,18 @@ plugins:
   - jekyll-paginate-content
 
 # Exclude my node related stuff
-exclude: [
-  'package.json',
-  'package-lock.json',
-  'src',
-  'node_modules',
-  'initpost.sh',
-  'Gemfile',
-  'Gemfile.lock',
-  'gulpfile.js',
-  'README.md'
-]
+exclude:
+  [
+    "package.json",
+    "package-lock.json",
+    "src",
+    "node_modules",
+    "initpost.sh",
+    "Gemfile",
+    "Gemfile.lock",
+    "gulpfile.js",
+    "README.md",
+  ]
 
 # Theme
 version: v3.1.2

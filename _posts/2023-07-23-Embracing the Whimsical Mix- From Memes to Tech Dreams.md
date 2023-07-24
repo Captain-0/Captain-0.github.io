@@ -16,7 +16,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: Sufypunk
+author: sufypunk
 paginate: false
 ---
 
