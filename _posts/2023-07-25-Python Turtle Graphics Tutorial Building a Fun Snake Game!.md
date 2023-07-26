@@ -11,7 +11,7 @@ image: >-
 optimized_image: >-
   https://res.cloudinary.com/dy3po9tjd/image/upload/v1690267366/951eba151a6b10e438ac2b52ffcf1ad2_whyuyt.gif
 # https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
-category: blog
+category: code
 tags:
   - tutorial
   - python
