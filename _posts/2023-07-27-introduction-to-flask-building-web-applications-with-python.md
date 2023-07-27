@@ -1,5 +1,5 @@
 ---
-date: 2023-07-27 16:03:59
+date: 2023-07-27
 layout: post
 title: "Introduction to Flask: Building Web Applications with Python"
 subtitle: "Flask: Building Web Apps with Python Made Easy"
@@ -13,13 +13,8 @@ tags:
   - python
   - flask
 author: sufiyan
-paginate: true
+paginate: false
 ---
-
-
-
-
-![Flask Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png)
 
 ## What is Flask?
 
