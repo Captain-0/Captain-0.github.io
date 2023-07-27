@@ -41,15 +41,22 @@ Before we dive into building a Flask application, make sure you have Python inst
 To install Flask, use pip, Python's package manager:
 
 ```
-
+pip install Flask
 ```
 
 ### Step 2: Create a Flask App
 
 Now, let's create a simple "Hello, World!" application in Flask.
 
-```python
+```
+# app.py
+from flask import Flask
 
+app = Flask(__name__)
+
+@app.route('/')
+def hello():
+    return 'Hello, World!'
 ```
 
 ### Step 3: Run the App
@@ -57,7 +64,7 @@ Now, let's create a simple "Hello, World!" application in Flask.
 Save the code in a file named `app.py`. Open your terminal, navigate to the directory containing `app.py`, and run the following command:
 
 ```
-
+python app.py
 ```
 
 You should see a message indicating that your Flask app is running on a local server (usually http://127.0.0.1:5000/). Open your web browser and visit the provided URL to see the "Hello, World!" message.
