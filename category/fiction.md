@@ -1,8 +1,6 @@
-
 ---
 layout: category
-title: fiction
+title: Fiction
 slug: fiction
-description: A category for fictional blog posts.
+description: A category for fictional posts.
 ---
-
