@@ -6,8 +6,8 @@ subtitle: "Flask: Building Web Apps with Python Made Easy"
 description: Explore Flask, the lightweight and powerful web framework for
   Python, and learn to build efficient web applications with minimalistic design
   and extensibility.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png
-optimized_image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png
+image: https://res.cloudinary.com/dy3po9tjd/image/upload/v1690552025/1280px-Flask_logo.svg_gjbay8.png
+optimized_image: https://res.cloudinary.com/dy3po9tjd/image/upload/v1690552025/1280px-Flask_logo.svg_gjbay8.png
 category: code
 tags:
   - python
