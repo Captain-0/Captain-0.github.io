@@ -8,9 +8,10 @@ description: Enter the chilling world of the SCP Foundation, a secretive
   unexplainable entities.
 image: https://res.cloudinary.com/dy3po9tjd/image/upload/v1690549779/download_c9ac2w.gif
 optimized_image: https://res.cloudinary.com/dy3po9tjd/image/upload/v1690549779/download_c9ac2w.gif
-category: blog
+category: fiction
 tags:
-  - fiction.scp
+  - fiction
+  - scp
 author: sufiyan
 paginate: false
 ---
