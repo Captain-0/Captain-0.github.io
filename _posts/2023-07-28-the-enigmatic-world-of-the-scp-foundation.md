@@ -1,5 +1,5 @@
 ---
-date: 2023-07-28 18:36:50
+date: 2023-07-28
 layout: post
 title: The Enigmatic World of the SCP Foundation
 subtitle: Unveiling Terrifying Anomalies
