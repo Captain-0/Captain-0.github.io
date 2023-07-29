@@ -1,5 +1,5 @@
 ---
-date: 2023-07-29 18:03:00
+date: 2023-07-29
 layout: post
 title: My Pokémon Fire Red Adventure - From Humble Beginnings to Viridian Forest!
 subtitle: Let's Play Pokémon Fire Red - Episode 1
