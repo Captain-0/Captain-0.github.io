@@ -9,7 +9,7 @@ description: "Embark on an exciting Pokémon journey with me in Pokémon Fire Re
   fun Pokémon facts, and the quest to complete the Pokédex! 🌟🔥🍃 #Pokemon
   #GottaCatchEmAll"
 image: https://res.cloudinary.com/dy3po9tjd/image/upload/v1690634962/ikmWwfEuNt_pixtdm.png
-category: fiction
+category: let's play
 tags:
   - pokemon
   - gameplay
